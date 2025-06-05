@@ -11,7 +11,7 @@
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/aidan846/piglin-free-portals-1.21.5"
 	},
-	"license": "CC0-1.0",
+	"license": "CC BY 4.0",
 	"icon": "assets/piglin-free-portals/icon.png",
 	"environment": "*",
 	"entrypoints": {
