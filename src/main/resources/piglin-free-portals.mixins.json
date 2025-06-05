@@ -3,7 +3,7 @@
 	"package": "piglin.free.portals.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"NetherPortalBlockMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
