@@ -3,13 +3,13 @@
 	"id": "piglin-free-portals",
 	"version": "${version}",
 	"name": "Piglin Free Portals",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Stop piglins from spawning in your portals, freeing up your mobcap!",
 	"authors": [
 		"8617"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/aidan846/piglin-free-portals-1.21.5"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/piglin-free-portals/icon.png",
